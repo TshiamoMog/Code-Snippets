@@ -1,0 +1,7 @@
+C:\Users\Tshiamo\OneDrive\Documents\Portfolio\Code Snippets\CodeSnipetsApplication\CodeSnipetsApplication\bin\Debug\CodeSnipetsApplication.exe.config
+C:\Users\Tshiamo\OneDrive\Documents\Portfolio\Code Snippets\CodeSnipetsApplication\CodeSnipetsApplication\bin\Debug\CodeSnipetsApplication.exe
+C:\Users\Tshiamo\OneDrive\Documents\Portfolio\Code Snippets\CodeSnipetsApplication\CodeSnipetsApplication\bin\Debug\CodeSnipetsApplication.pdb
+C:\Users\Tshiamo\OneDrive\Documents\Portfolio\Code Snippets\CodeSnipetsApplication\CodeSnipetsApplication\obj\Debug\CodeSnipetsApplication.csproj.AssemblyReference.cache
+C:\Users\Tshiamo\OneDrive\Documents\Portfolio\Code Snippets\CodeSnipetsApplication\CodeSnipetsApplication\obj\Debug\CodeSnipetsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Tshiamo\OneDrive\Documents\Portfolio\Code Snippets\CodeSnipetsApplication\CodeSnipetsApplication\obj\Debug\CodeSnipetsApplication.exe
+C:\Users\Tshiamo\OneDrive\Documents\Portfolio\Code Snippets\CodeSnipetsApplication\CodeSnipetsApplication\obj\Debug\CodeSnipetsApplication.pdb

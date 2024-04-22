@@ -50,7 +50,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StarPatternMenu.cs" />
-    <Compile Include="StarPatterns.cs" />
+    <Compile Include="StringManipulationMenu.cs" />
+    <Compile Include="StringManipulator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

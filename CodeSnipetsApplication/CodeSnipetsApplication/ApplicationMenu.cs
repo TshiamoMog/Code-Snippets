@@ -12,12 +12,14 @@ namespace CodeSnipetsApplication
         {
             while (true)
             {
+                begin:
                 Console.WriteLine("1. Generate Fibonacci sequence");
                 Console.WriteLine("2. Print Star Patterns");
-                Console.WriteLine("3. Print Prime Numbers");
+                Console.WriteLine("3. Prime Numbers");
                 Console.WriteLine("4. Calculate Factorial");
-                Console.WriteLine("5. Clear");
-                Console.WriteLine("6. Exit");
+                Console.WriteLine("5. String Manipulation");
+                Console.WriteLine("6. Clear");
+                Console.WriteLine("7. Exit App");
 
                 Console.Write("Enter your choice: ");
                 int choice = int.Parse(Console.ReadLine());
@@ -44,13 +46,16 @@ namespace CodeSnipetsApplication
                         Console.WriteLine($"Factorial of {factorialNumber} is: {factorialResult}");
                         break;
                     case 5:
-                        
+                        StringManipulationMenu.Menu();
                         break;
                     case 6:
+                        Console.Clear();
+                        goto begin;
+                    case 7:
                         Environment.Exit(0);
                         break;
                     default:
-                        Console.WriteLine("Invalid choice. Please enter a number between 1 and 6.");
+                        Console.WriteLine("Invalid choice. Please enter a number between 1 and 7.");
                         break;
                 }
 

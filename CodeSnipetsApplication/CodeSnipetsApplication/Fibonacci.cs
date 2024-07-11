@@ -26,8 +26,17 @@ namespace CodeSnipetsApplication
                 a = b;
                 b = temp;
 
-                // Print next Fibonacci number
-                Console.Write(temp + ", ");
+                if (i == count - 3)
+                {
+                    // Print the last number in the Fibonacci sequence
+                    Console.Write(temp);
+                }
+                else
+                {
+                    // Print next Fibonacci number with a commer
+                    Console.Write(temp + ", ");
+                }
+
             }
 
             Console.WriteLine();
